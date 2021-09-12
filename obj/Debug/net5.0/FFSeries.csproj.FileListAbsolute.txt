@@ -1,0 +1,16 @@
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.AssemblyInfo.cs
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\bin\Debug\net5.0\FFSeries.exe
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\bin\Debug\net5.0\FFSeries.deps.json
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\bin\Debug\net5.0\FFSeries.runtimeconfig.json
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\bin\Debug\net5.0\FFSeries.runtimeconfig.dev.json
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\bin\Debug\net5.0\FFSeries.dll
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\bin\Debug\net5.0\ref\FFSeries.dll
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\bin\Debug\net5.0\FFSeries.pdb
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.dll
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\ref\FFSeries.dll
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.pdb
+C:\Users\fabio\Documents\GitHub\Backup\FFSeries\obj\Debug\net5.0\FFSeries.genruntimeconfig.cache
